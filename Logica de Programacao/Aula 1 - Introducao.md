@@ -8,11 +8,11 @@ Algumas linguagens são: HTML, Markdown, LaTeX, reStructuredText.
 ##### Exemplo de HTML:
 ```html
 <html>
- <head>
-    <title>Exemplo 1</tile>
- </head>
- <body
-    <p>Olá</p>
+    <head>
+        <title>Exemplo 1</tile>
+    </head>
+    <body>
+        <p>Olá</p>
     </body>
 </html>
 ```
@@ -32,7 +32,7 @@ example = 'Exemplo 2!'
 alert(example)
 ```
 
-Neste curso utilizaremos a linguagem JavaScript
+Neste curso utilizaremos a linguagem JavaScript.
 
 
 ***
